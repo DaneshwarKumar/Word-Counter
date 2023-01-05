@@ -1,0 +1,38 @@
+
+body{
+    padding: 55px 111px;
+}
+
+
+h1{
+    text-align: center;
+    background-color: rgb(82, 82, 210);
+    color: white;
+    padding: 11px;
+    margin: 0px;
+    font-family: sans-serif;
+    font-weight: 400;
+}
+
+
+#text-box{
+    width: 100%;
+    border-color: blueviolet;
+    font-size: 18px;
+    padding: 11px;
+    box-sizing: border-box;
+    resize: none;
+    background-color: lightgray;
+    margin-bottom: 0px;
+}
+
+p{
+    text-align: center;
+    font-size: 22px;
+    font-weight: 300;
+    font-family: sans-serif;
+    padding: 11px;
+    background-color: rgb(82, 82, 210);
+    margin: 0px;
+    color: white;
+}
